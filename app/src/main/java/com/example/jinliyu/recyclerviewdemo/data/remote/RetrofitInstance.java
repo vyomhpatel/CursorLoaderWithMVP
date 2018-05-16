@@ -1,4 +1,4 @@
-package com.example.jinliyu.recyclerviewdemo;
+package com.example.jinliyu.recyclerviewdemo.data.remote;
 
 //http://rjtmobile.com/aamir/e-commerce/android-app/shop_login.php?mobile=55565454&password=7011
 

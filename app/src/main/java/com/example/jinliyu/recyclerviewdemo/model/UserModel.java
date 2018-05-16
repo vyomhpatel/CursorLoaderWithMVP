@@ -1,4 +1,4 @@
-package com.example.jinliyu.recyclerviewdemo;
+package com.example.jinliyu.recyclerviewdemo.model;
 
 public class UserModel {
 

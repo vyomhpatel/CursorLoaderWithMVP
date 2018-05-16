@@ -1,4 +1,6 @@
-package com.example.jinliyu.recyclerviewdemo;
+package com.example.jinliyu.recyclerviewdemo.data.remote;
+
+import com.example.jinliyu.recyclerviewdemo.model.UserModel;
 
 import java.util.List;
 
