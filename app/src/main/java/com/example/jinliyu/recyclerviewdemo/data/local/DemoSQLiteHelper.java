@@ -1,4 +1,4 @@
-package com.example.jinliyu.recyclerviewdemo.database;
+package com.example.jinliyu.recyclerviewdemo.data.local;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

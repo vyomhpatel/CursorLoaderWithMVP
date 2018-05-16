@@ -1,19 +1,14 @@
 package com.example.jinliyu.recyclerviewdemo.view;
 
-import android.app.LoaderManager;
-import android.content.Loader;
-import android.database.Cursor;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.RecyclerView;
 import android.widget.CursorAdapter;
 import android.widget.ListView;
-import android.widget.SimpleCursorAdapter;
 
 import com.example.jinliyu.recyclerviewdemo.R;
 import com.example.jinliyu.recyclerviewdemo.adapters.StringAdapter;
-import com.example.jinliyu.recyclerviewdemo.database.DBHelper;
-import com.example.jinliyu.recyclerviewdemo.database.MyCursorLoader;
+import com.example.jinliyu.recyclerviewdemo.data.dbutils.DBHelper;
 import com.example.jinliyu.recyclerviewdemo.model.UserModel;
 import com.example.jinliyu.recyclerviewdemo.presenter.MainActivityPresenter;
 

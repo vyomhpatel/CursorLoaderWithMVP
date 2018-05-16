@@ -1,9 +1,11 @@
-package com.example.jinliyu.recyclerviewdemo.database;
+package com.example.jinliyu.recyclerviewdemo.data.dbutils;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+
+import com.example.jinliyu.recyclerviewdemo.data.local.DemoSQLiteHelper;
 
 public class DBHelper {
 

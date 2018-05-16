@@ -1,4 +1,4 @@
-package com.example.jinliyu.recyclerviewdemo.database;
+package com.example.jinliyu.recyclerviewdemo.data.dbutils;
 
 import android.content.Context;
 import android.content.CursorLoader;

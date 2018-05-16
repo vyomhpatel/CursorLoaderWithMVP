@@ -7,14 +7,13 @@ import android.database.Cursor;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.CursorAdapter;
-import android.widget.ListView;
 import android.widget.SimpleCursorAdapter;
 
 import com.example.jinliyu.recyclerviewdemo.R;
 import com.example.jinliyu.recyclerviewdemo.data.remote.APIInterface;
 import com.example.jinliyu.recyclerviewdemo.data.remote.RetrofitInstance;
-import com.example.jinliyu.recyclerviewdemo.database.DBHelper;
-import com.example.jinliyu.recyclerviewdemo.database.MyCursorLoader;
+import com.example.jinliyu.recyclerviewdemo.data.dbutils.DBHelper;
+import com.example.jinliyu.recyclerviewdemo.data.dbutils.MyCursorLoader;
 import com.example.jinliyu.recyclerviewdemo.model.UserModel;
 import com.example.jinliyu.recyclerviewdemo.view.MainActivity;
 import com.example.jinliyu.recyclerviewdemo.view.MainActivityContract;
